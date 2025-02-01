@@ -21,7 +21,7 @@ class Employee
     void writeData()
     {
         ofstream out("E:\\Employee.txt",ios::app);
-        out<<id<<"\t"<<name<<"\t"<<address<<"\t"<<salary<<"\t"<<endl;
+        out<<id<<"\t"<<name<<"\t"<<address<<"\t"  <<salary<<"\t"<<endl;
         cout<<"data added"<<endl;
         out.close();
         cout<<"data written in file"<<endl;

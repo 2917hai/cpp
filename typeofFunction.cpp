@@ -63,10 +63,10 @@ int main()
      cout<<"enter three no"<<endl;
      cin>>n1>>n2>>n3;
      cout<<"sqrt of n1:   "<<sqrt(n1)<<endl;   // clc square root
-      cout<<"power of n1 power of n2:   "<<pow(n1,n2)<<endl; // clc n1 power of n2
-       cout<<"ceil value (max near value) of n2:   "<<ceil(n2)<<endl;  // max near value
-        cout<<"floor value(min near value) of n2:   "<<floor(n2)<<endl; // min near value
-         cout<<"absolute value of n3:   "<<abs(n3)<<endl;  // absolute value such as -40=40
-          cout<<"max no of n1 and n2:   "<<max(n1,n2)<<endl; // clc max no
-           cout<<"min no of n1 and n2:    "<<min(n1,n2)<<endl; // clc min no
+     cout<<"power of n1 power of n2:   "<<pow(n1,n2)<<endl; // clc n1 power of n2
+     cout<<"ceil value (max near value) of n2:   "<<ceil(n2)<<endl;  // max near value
+     cout<<"floor value(min near value) of n2:   "<<floor(n2)<<endl; // min near value
+     cout<<"absolute value of n3:   "<<abs(n3)<<endl;  // absolute value such as -40=40
+     cout<<"max no of n1 and n2:   "<<max(n1,n2)<<endl; // clc max no
+     cout<<"min no of n1 and n2:    "<<min(n1,n2)<<endl; // clc min no
 }
